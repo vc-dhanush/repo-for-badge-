@@ -1,0 +1,7 @@
+Name ,Orders,Price ,Status,Email
+Anand,6,5000,Delivered,email1@gmail.com
+Bharat,5,3400,Not Delivered,email2@gmail.com
+Chethan,3,1860,Not Delivered,email3@gmail.com
+Dinesh,8,3200,Delivered,email4@gmail.com
+Eshan,1,500,Delivered,email5@gmail.com
+Faran,2,800,Not Delivered,email6@gmail.com
